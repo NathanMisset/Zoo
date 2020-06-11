@@ -4,24 +4,22 @@ using UnityEngine.UI;
 
 namespace Zoo
 {
-    class Zebra : MonoBehaviour
+    class Zebra : Animal
     {
-        [SerializeField]
-        private GameObject Balloon;
-        [SerializeField]
-        private Text text;
-        public string name;
-
-
-        public void SayHello()
+        public void Start()
         {
-            Balloon.SetActive(true);
+            type = "Herbivore";
+        }
+
+        public override void SayHello()
+        {
+            base.SayHello();
             text.text = "zebra zebra";
         }
 
-        public void EatLeaves()
+        public override void EatLeaves()
         {
-            Balloon.SetActive(true);
+            base.EatLeaves();
             text.text = "munch munch zank yee bra";
         }
     }

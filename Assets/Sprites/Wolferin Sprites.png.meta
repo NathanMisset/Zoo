@@ -1,0 +1,3439 @@
+fileFormatVersion: 2
+guid: f167684db528c3d44a14efd1c22cdd3d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4926292571219662342
+    second: Wolferin Sprites_0
+  - first:
+      213: -8453537200398034015
+    second: Wolferin Sprites_1
+  - first:
+      213: -4886224979924489952
+    second: Wolferin Sprites_2
+  - first:
+      213: -8630186688173006248
+    second: Wolferin Sprites_3
+  - first:
+      213: 3456044221711277336
+    second: Wolferin Sprites_4
+  - first:
+      213: -7844637746938304428
+    second: Wolferin Sprites_5
+  - first:
+      213: -2832589138907837082
+    second: Wolferin Sprites_6
+  - first:
+      213: -1897318596072176358
+    second: Wolferin Sprites_7
+  - first:
+      213: -2207076428091246301
+    second: Wolferin Sprites_8
+  - first:
+      213: -5155586903353181807
+    second: Wolferin Sprites_9
+  - first:
+      213: 3955694001189312894
+    second: Wolferin Sprites_10
+  - first:
+      213: 3464231111677756637
+    second: Wolferin Sprites_11
+  - first:
+      213: 3820353031337224371
+    second: Wolferin Sprites_12
+  - first:
+      213: 4021779293846129128
+    second: Wolferin Sprites_13
+  - first:
+      213: 1559334026106739418
+    second: Wolferin Sprites_14
+  - first:
+      213: 6647247348048176903
+    second: Wolferin Sprites_15
+  - first:
+      213: 7708019474995192152
+    second: Wolferin Sprites_16
+  - first:
+      213: -1554099138929146474
+    second: Wolferin Sprites_17
+  - first:
+      213: -8902792660215812082
+    second: Wolferin Sprites_18
+  - first:
+      213: -8571531883154593905
+    second: Wolferin Sprites_19
+  - first:
+      213: 5207080826559036459
+    second: Wolferin Sprites_20
+  - first:
+      213: 6407662535936973648
+    second: Wolferin Sprites_21
+  - first:
+      213: 8742095862292372073
+    second: Wolferin Sprites_22
+  - first:
+      213: -9059705466044790870
+    second: Wolferin Sprites_23
+  - first:
+      213: 4849830244921139502
+    second: Wolferin Sprites_24
+  - first:
+      213: 4565336596277694742
+    second: Wolferin Sprites_25
+  - first:
+      213: -3481996102772456601
+    second: Wolferin Sprites_26
+  - first:
+      213: -6379378427328747656
+    second: Wolferin Sprites_27
+  - first:
+      213: 4198469635173992287
+    second: Wolferin Sprites_28
+  - first:
+      213: -802327337745054510
+    second: Wolferin Sprites_29
+  - first:
+      213: 4201675547038243264
+    second: Wolferin Sprites_30
+  - first:
+      213: -7644602444280560353
+    second: Wolferin Sprites_31
+  - first:
+      213: -6116103838894388304
+    second: Wolferin Sprites_32
+  - first:
+      213: -446810506698118486
+    second: Wolferin Sprites_33
+  - first:
+      213: -6846202947737690056
+    second: Wolferin Sprites_34
+  - first:
+      213: 4705656936959892594
+    second: Wolferin Sprites_35
+  - first:
+      213: 4982702923242509800
+    second: Wolferin Sprites_36
+  - first:
+      213: -1371701400117448113
+    second: Wolferin Sprites_37
+  - first:
+      213: -1624841324994769535
+    second: Wolferin Sprites_38
+  - first:
+      213: -6929225999798153961
+    second: Wolferin Sprites_39
+  - first:
+      213: -5383720267720770343
+    second: Wolferin Sprites_40
+  - first:
+      213: 3705726043965312198
+    second: Wolferin Sprites_41
+  - first:
+      213: 617782193781041010
+    second: Wolferin Sprites_42
+  - first:
+      213: 7900973705769900595
+    second: Wolferin Sprites_43
+  - first:
+      213: 9120181563029246992
+    second: Wolferin Sprites_44
+  - first:
+      213: -894363731275374743
+    second: Wolferin Sprites_45
+  - first:
+      213: -7277983073425674413
+    second: Wolferin Sprites_46
+  - first:
+      213: -6135414479338568935
+    second: Wolferin Sprites_47
+  - first:
+      213: -4155563735103655572
+    second: Wolferin Sprites_48
+  - first:
+      213: 3179968028004397501
+    second: Wolferin Sprites_49
+  - first:
+      213: -6122733034918034460
+    second: Wolferin Sprites_50
+  - first:
+      213: -7273844680217096906
+    second: Wolferin Sprites_51
+  - first:
+      213: 2247618182415837059
+    second: Wolferin Sprites_52
+  - first:
+      213: 7903151881463149770
+    second: Wolferin Sprites_53
+  - first:
+      213: -8983108684035403471
+    second: Wolferin Sprites_54
+  - first:
+      213: -6110686297913457331
+    second: Wolferin Sprites_55
+  - first:
+      213: 8916968830957590023
+    second: Wolferin Sprites_56
+  - first:
+      213: -9198508980086854823
+    second: Wolferin Sprites_57
+  - first:
+      213: -7856252150280414906
+    second: Wolferin Sprites_58
+  - first:
+      213: -777922781552294413
+    second: Wolferin Sprites_59
+  - first:
+      213: 1284460914152006863
+    second: Wolferin Sprites_60
+  - first:
+      213: -6797447507008277942
+    second: Wolferin Sprites_61
+  - first:
+      213: -412735324085472794
+    second: Wolferin Sprites_62
+  - first:
+      213: 4564180860604518476
+    second: Wolferin Sprites_63
+  - first:
+      213: 9084082358671853792
+    second: Wolferin Sprites_64
+  - first:
+      213: -7975506859160924605
+    second: Wolferin Sprites_65
+  - first:
+      213: -6667411987266678059
+    second: Wolferin Sprites_66
+  - first:
+      213: 5147383468324070492
+    second: Wolferin Sprites_67
+  - first:
+      213: 5690439692890199150
+    second: Wolferin Sprites_68
+  - first:
+      213: -4159822342927394439
+    second: Wolferin Sprites_69
+  - first:
+      213: 8275858477300126625
+    second: Wolferin Sprites_70
+  - first:
+      213: -4208976237680095468
+    second: Wolferin Sprites_71
+  - first:
+      213: -2365812931090918561
+    second: Wolferin Sprites_72
+  - first:
+      213: -2001264790302449131
+    second: Wolferin Sprites_73
+  - first:
+      213: -8485949535627298125
+    second: Wolferin Sprites_74
+  - first:
+      213: 3703144684157687115
+    second: Wolferin Sprites_75
+  - first:
+      213: -5863103529152640048
+    second: Wolferin Sprites_76
+  - first:
+      213: 160034958877634489
+    second: Wolferin Sprites_77
+  - first:
+      213: 2980996010443347530
+    second: Wolferin Sprites_78
+  - first:
+      213: -7204452816062579666
+    second: Wolferin Sprites_79
+  - first:
+      213: 4031992800316878314
+    second: Wolferin Sprites_80
+  - first:
+      213: 3977462261179684419
+    second: Wolferin Sprites_81
+  - first:
+      213: -8760165149305349169
+    second: Wolferin Sprites_82
+  - first:
+      213: -824026432539231999
+    second: Wolferin Sprites_83
+  - first:
+      213: -2325665828953305361
+    second: Wolferin Sprites_84
+  - first:
+      213: 3469670481219034979
+    second: Wolferin Sprites_85
+  - first:
+      213: 5503345590641263735
+    second: Wolferin Sprites_86
+  - first:
+      213: -3889395168840706489
+    second: Wolferin Sprites_87
+  - first:
+      213: 8696514693885781207
+    second: Wolferin Sprites_88
+  - first:
+      213: -763909119418966856
+    second: Wolferin Sprites_89
+  - first:
+      213: -1344832910259272954
+    second: Wolferin Sprites_90
+  - first:
+      213: -2504844590302452219
+    second: Wolferin Sprites_91
+  - first:
+      213: 3571521533384323153
+    second: Wolferin Sprites_92
+  - first:
+      213: 2252222325345931244
+    second: Wolferin Sprites_93
+  - first:
+      213: -3748060129348769730
+    second: Wolferin Sprites_94
+  - first:
+      213: -71832525703045539
+    second: Wolferin Sprites_95
+  - first:
+      213: -1083392289021490638
+    second: Wolferin Sprites_96
+  - first:
+      213: -1135882537293087034
+    second: Wolferin Sprites_97
+  - first:
+      213: -7167722354451835419
+    second: Wolferin Sprites_98
+  - first:
+      213: -6229129802301273012
+    second: Wolferin Sprites_99
+  - first:
+      213: 5828924162735814740
+    second: Wolferin Sprites_100
+  - first:
+      213: -2442451434329972438
+    second: Wolferin Sprites_101
+  - first:
+      213: 5482476980433941221
+    second: Wolferin Sprites_102
+  - first:
+      213: -662606289007658853
+    second: Wolferin Sprites_103
+  - first:
+      213: 5055089167154056762
+    second: Wolferin Sprites_104
+  - first:
+      213: 3054623775612725350
+    second: Wolferin Sprites_105
+  - first:
+      213: 2872222265544269148
+    second: Wolferin Sprites_106
+  - first:
+      213: 1925518945667616266
+    second: Wolferin Sprites_107
+  - first:
+      213: 355557461355820604
+    second: Wolferin Sprites_108
+  - first:
+      213: 4246630284757820763
+    second: Wolferin Sprites_109
+  - first:
+      213: 8616468983112889761
+    second: Wolferin Sprites_110
+  - first:
+      213: 6328771232745937107
+    second: Wolferin Sprites_111
+  - first:
+      213: -7745788634096290651
+    second: Wolferin Sprites_112
+  - first:
+      213: 3926669672780765935
+    second: Wolferin Sprites_113
+  - first:
+      213: 6172674873880028995
+    second: Wolferin Sprites_114
+  - first:
+      213: 7369072378608015728
+    second: Wolferin Sprites_115
+  - first:
+      213: 1770995723343314572
+    second: Wolferin Sprites_116
+  - first:
+      213: -4512536598261373603
+    second: Wolferin Sprites_117
+  - first:
+      213: 2458845038088221096
+    second: Wolferin Sprites_118
+  - first:
+      213: -6684549179123436989
+    second: Wolferin Sprites_119
+  - first:
+      213: -4182521233762113112
+    second: Wolferin Sprites_120
+  - first:
+      213: 1411492142221443664
+    second: Wolferin Sprites_121
+  - first:
+      213: -5528317386398317625
+    second: Wolferin Sprites_122
+  - first:
+      213: -5653349655470556463
+    second: Wolferin Sprites_123
+  - first:
+      213: 7108603172951326262
+    second: Wolferin Sprites_124
+  - first:
+      213: 2725824754857372102
+    second: Wolferin Sprites_125
+  - first:
+      213: 6644318277686390630
+    second: Wolferin Sprites_126
+  - first:
+      213: -7459674557549619985
+    second: Wolferin Sprites_127
+  - first:
+      213: 2887158595503949883
+    second: Wolferin Sprites_128
+  - first:
+      213: 7646776934051320645
+    second: Wolferin Sprites_129
+  - first:
+      213: 739624191067114940
+    second: Wolferin Sprites_130
+  - first:
+      213: -1602888320719256263
+    second: Wolferin Sprites_131
+  - first:
+      213: -5492104241757520166
+    second: Wolferin Sprites_132
+  - first:
+      213: 7670248017641271680
+    second: Wolferin Sprites_133
+  - first:
+      213: -7275688937510534346
+    second: Wolferin Sprites_134
+  - first:
+      213: -2226783919017871442
+    second: Wolferin Sprites_135
+  - first:
+      213: 3495376113484026397
+    second: Wolferin Sprites_136
+  - first:
+      213: -6111903702702006117
+    second: Wolferin Sprites_137
+  - first:
+      213: 4425264036751207996
+    second: Wolferin Sprites_138
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Wolferin Sprites_0
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 1105
+        width: 168
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 606913f2ef4bd5440800000000000000
+      internalID: 4926292571219662342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wolferin Sprites_1
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 1231
+        width: 5
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ab99ba74b00faa80800000000000000
+      internalID: -8453537200398034015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wolferin Sprites_2
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 1228
+        width: 20
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 029e5f2e444a03cb0800000000000000
+      internalID: -4886224979924489952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wolferin Sprites_3
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 1227
+        width: 35
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 852a42a8eea6b3880800000000000000
+      internalID: -8630186688173006248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wolferin Sprites_4
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 1022
+        width: 445
+        height: 267
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81d5423a8e556ff20800000000000000
+      internalID: 3456044221711277336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wolferin Sprites_5
+      rect:
+        serializedVersion: 2
+        x: 1046
+        y: 891
+        width: 345
+        height: 390
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4582f16288f322390800000000000000
+      internalID: -7844637746938304428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wolferin Sprites_6
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 1116
+        width: 78
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66dc4c49f2f90b8d0800000000000000
+      internalID: -2832589138907837082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wolferin Sprites_7
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 1173
+        width: 73
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a15006f0ace5ba5e0800000000000000
+      internalID: -1897318596072176358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wolferin Sprites_8
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 1215
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 329bb77aea3ee51e0800000000000000
+      internalID: -2207076428091246301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wolferin Sprites_9
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 1186
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1993af0e60da378b0800000000000000
+      internalID: -5155586903353181807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wolferin Sprites_10
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 1126
+        width: 60
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7958056cb275e630800000000000000
+      internalID: 3955694001189312894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wolferin Sprites_11
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 1041
+        width: 83
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd4c86f77db631030800000000000000
+      internalID: 3464231111677756637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wolferin Sprites_12
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 1130
+        width: 43
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b8217547de940530800000000000000
+      internalID: 3820353031337224371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wolferin Sprites_13
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 1052
+        width: 61
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e948be95fa30d730800000000000000
+      internalID: 4021779293846129128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wolferin Sprites_14
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 1121
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ada9548f80ed3a510800000000000000
+      internalID: 1559334026106739418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wolferin Sprites_15
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 1127
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 707a1929e34cf3c50800000000000000
+      internalID: 6647247348048176903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wolferin Sprites_16
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 1018
+        width: 151
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 851a1e8afd268fa60800000000000000
+      internalID: 7708019474995192152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wolferin Sprites_17
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 798
+        width: 126
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 695436e211bbe6ae0800000000000000
+      internalID: -1554099138929146474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wolferin Sprites_18
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 972
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e00b1ea9e3de27480800000000000000
+      internalID: -8902792660215812082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wolferin Sprites_19
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 798
+        width: 122
+        height: 209
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f87a2ab8a2dcb0980800000000000000
+      internalID: -8571531883154593905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wolferin Sprites_20
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 801
+        width: 219
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2c7cc76c64434840800000000000000
+      internalID: 5207080826559036459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wolferin Sprites_21
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 798
+        width: 157
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05b1a1f80279ce850800000000000000
+      internalID: 6407662535936973648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wolferin Sprites_22
+      rect:
+        serializedVersion: 2
+        x: 731
+        y: 798
+        width: 158
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96a59508ed9225970800000000000000
+      internalID: 8742095862292372073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wolferin Sprites_23
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 945
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa74cb601e5754280800000000000000
+      internalID: -9059705466044790870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wolferin Sprites_24
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 798
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e21687989ee0e4340800000000000000
+      internalID: 4849830244921139502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wolferin Sprites_25
+      rect:
+        serializedVersion: 2
+        x: 1122
+        y: 796
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 611193532755b5f30800000000000000
+      internalID: 4565336596277694742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wolferin Sprites_26
+      rect:
+        serializedVersion: 2
+        x: 1178
+        y: 796
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76304f03ef67dafc0800000000000000
+      internalID: -3481996102772456601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wolferin Sprites_27
+      rect:
+        serializedVersion: 2
+        x: 1234
+        y: 796
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 877a747ae15e777a0800000000000000
+      internalID: -6379378427328747656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wolferin Sprites_28
+      rect:
+        serializedVersion: 2
+        x: 1294
+        y: 796
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f574fc483e5f34a30800000000000000
+      internalID: 4198469635173992287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wolferin Sprites_29
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 534
+        width: 215
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d40f18898f8dd4f0800000000000000
+      internalID: -802327337745054510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wolferin Sprites_30
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 534
+        width: 217
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c9d8aa06a95f4a30800000000000000
+      internalID: 4201675547038243264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wolferin Sprites_31
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 534
+        width: 195
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f15039b649ae8e590800000000000000
+      internalID: -7644602444280560353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wolferin Sprites_32
+      rect:
+        serializedVersion: 2
+        x: 662
+        y: 537
+        width: 188
+        height: 239
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bb0c4986fb3f1ba0800000000000000
+      internalID: -6116103838894388304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wolferin Sprites_33
+      rect:
+        serializedVersion: 2
+        x: 848
+        y: 723
+        width: 8
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aaaa852263c9cc9f0800000000000000
+      internalID: -446810506698118486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wolferin Sprites_34
+      rect:
+        serializedVersion: 2
+        x: 870
+        y: 537
+        width: 183
+        height: 239
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 830ecd711b66df0a0800000000000000
+      internalID: -6846202947737690056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wolferin Sprites_35
+      rect:
+        serializedVersion: 2
+        x: 1048
+        y: 730
+        width: 10
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27cd8527d0add4140800000000000000
+      internalID: 4705656936959892594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wolferin Sprites_36
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 660
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e59b21c8ed162540800000000000000
+      internalID: 4982702923242509800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wolferin Sprites_37
+      rect:
+        serializedVersion: 2
+        x: 808
+        y: 627
+        width: 50
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f42f71c18dcb6fce0800000000000000
+      internalID: -1371701400117448113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wolferin Sprites_38
+      rect:
+        serializedVersion: 2
+        x: 1016
+        y: 643
+        width: 39
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18dcf477c676379e0800000000000000
+      internalID: -1624841324994769535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wolferin Sprites_39
+      rect:
+        serializedVersion: 2
+        x: 1018
+        y: 627
+        width: 48
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71d41a17aa176df90800000000000000
+      internalID: -6929225999798153961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wolferin Sprites_40
+      rect:
+        serializedVersion: 2
+        x: 1081
+        y: 534
+        width: 184
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9dcbe60d0fe2945b0800000000000000
+      internalID: -5383720267720770343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wolferin Sprites_41
+      rect:
+        serializedVersion: 2
+        x: 1275
+        y: 534
+        width: 179
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cc477504326d6330800000000000000
+      internalID: 3705726043965312198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wolferin Sprites_42
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 534
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27761e0d1adc29800800000000000000
+      internalID: 617782193781041010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wolferin Sprites_43
+      rect:
+        serializedVersion: 2
+        x: 878
+        y: 534
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33add1869b5e5ad60800000000000000
+      internalID: 7900973705769900595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wolferin Sprites_44
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 370
+        width: 199
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 014dc6f8fc4619e70800000000000000
+      internalID: 9120181563029246992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wolferin Sprites_45
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 354
+        width: 236
+        height: 165
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96f9659cce49693f0800000000000000
+      internalID: -894363731275374743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wolferin Sprites_46
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 509
+        width: 45
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35f282384f86ffa90800000000000000
+      internalID: -7277983073425674413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wolferin Sprites_47
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 352
+        width: 232
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9138c31b901aadaa0800000000000000
+      internalID: -6135414479338568935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wolferin Sprites_48
+      rect:
+        serializedVersion: 2
+        x: 876
+        y: 383
+        width: 72
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c61b6afccc87456c0800000000000000
+      internalID: -4155563735103655572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wolferin Sprites_49
+      rect:
+        serializedVersion: 2
+        x: 966
+        y: 431
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db13d42c214812c20800000000000000
+      internalID: 3179968028004397501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wolferin Sprites_50
+      rect:
+        serializedVersion: 2
+        x: 982
+        y: 431
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e3492f8ebea70ba0800000000000000
+      internalID: -6122733034918034460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wolferin Sprites_51
+      rect:
+        serializedVersion: 2
+        x: 996
+        y: 431
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63d8b444dcc1e0b90800000000000000
+      internalID: -7273844680217096906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wolferin Sprites_52
+      rect:
+        serializedVersion: 2
+        x: 1005
+        y: 431
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 387ea9914d4213f10800000000000000
+      internalID: 2247618182415837059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wolferin Sprites_53
+      rect:
+        serializedVersion: 2
+        x: 1014
+        y: 431
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac4329473c2adad60800000000000000
+      internalID: 7903151881463149770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wolferin Sprites_54
+      rect:
+        serializedVersion: 2
+        x: 1025
+        y: 431
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 131d7551f36955380800000000000000
+      internalID: -8983108684035403471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wolferin Sprites_55
+      rect:
+        serializedVersion: 2
+        x: 1035
+        y: 431
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d458507103b723ba0800000000000000
+      internalID: -6110686297913457331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wolferin Sprites_56
+      rect:
+        serializedVersion: 2
+        x: 1049
+        y: 428
+        width: 5
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 706157a58ef6fbb70800000000000000
+      internalID: 8916968830957590023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wolferin Sprites_57
+      rect:
+        serializedVersion: 2
+        x: 1056
+        y: 431
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95baea281d4585080800000000000000
+      internalID: -9198508980086854823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wolferin Sprites_58
+      rect:
+        serializedVersion: 2
+        x: 1067
+        y: 431
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64913a42b4cf8f290800000000000000
+      internalID: -7856252150280414906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wolferin Sprites_59
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 431
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f544ee0a534435f0800000000000000
+      internalID: -777922781552294413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wolferin Sprites_60
+      rect:
+        serializedVersion: 2
+        x: 1094
+        y: 431
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc467e3656253d110800000000000000
+      internalID: 1284460914152006863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wolferin Sprites_61
+      rect:
+        serializedVersion: 2
+        x: 1113
+        y: 431
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a42386db18d9aa1a0800000000000000
+      internalID: -6797447507008277942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wolferin Sprites_62
+      rect:
+        serializedVersion: 2
+        x: 1122
+        y: 431
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e131a5d86ba54af0800000000000000
+      internalID: -412735324085472794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wolferin Sprites_63
+      rect:
+        serializedVersion: 2
+        x: 1132
+        y: 431
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4018f68f4a375f30800000000000000
+      internalID: 4564180860604518476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wolferin Sprites_64
+      rect:
+        serializedVersion: 2
+        x: 1147
+        y: 431
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e8470396c4211e70800000000000000
+      internalID: 9084082358671853792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wolferin Sprites_65
+      rect:
+        serializedVersion: 2
+        x: 1162
+        y: 431
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34e850484ce415190800000000000000
+      internalID: -7975506859160924605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wolferin Sprites_66
+      rect:
+        serializedVersion: 2
+        x: 1172
+        y: 431
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d2d9cf7f189873a0800000000000000
+      internalID: -6667411987266678059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wolferin Sprites_67
+      rect:
+        serializedVersion: 2
+        x: 1182
+        y: 428
+        width: 5
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c54ac201efd2f6740800000000000000
+      internalID: 5147383468324070492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wolferin Sprites_68
+      rect:
+        serializedVersion: 2
+        x: 1209
+        y: 401
+        width: 40
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e64d08e50c088fe40800000000000000
+      internalID: 5690439692890199150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wolferin Sprites_69
+      rect:
+        serializedVersion: 2
+        x: 966
+        y: 414
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97954196e975546c0800000000000000
+      internalID: -4159822342927394439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wolferin Sprites_70
+      rect:
+        serializedVersion: 2
+        x: 977
+        y: 414
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a311ee0071c9d270800000000000000
+      internalID: 8275858477300126625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wolferin Sprites_71
+      rect:
+        serializedVersion: 2
+        x: 985
+        y: 414
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41f84057966b695c0800000000000000
+      internalID: -4208976237680095468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wolferin Sprites_72
+      rect:
+        serializedVersion: 2
+        x: 991
+        y: 414
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f53dc4d7ca1fa2fd0800000000000000
+      internalID: -2365812931090918561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wolferin Sprites_73
+      rect:
+        serializedVersion: 2
+        x: 999
+        y: 414
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 512a680c6441a34e0800000000000000
+      internalID: -2001264790302449131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wolferin Sprites_74
+      rect:
+        serializedVersion: 2
+        x: 1020
+        y: 414
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ba3b0b9bd9db3a80800000000000000
+      internalID: -8485949535627298125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wolferin Sprites_75
+      rect:
+        serializedVersion: 2
+        x: 1031
+        y: 414
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b45581b5876346330800000000000000
+      internalID: 3703144684157687115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wolferin Sprites_76
+      rect:
+        serializedVersion: 2
+        x: 1039
+        y: 414
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0db848f776212aea0800000000000000
+      internalID: -5863103529152640048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wolferin Sprites_77
+      rect:
+        serializedVersion: 2
+        x: 1047
+        y: 414
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bfab8b72fe883200800000000000000
+      internalID: 160034958877634489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wolferin Sprites_78
+      rect:
+        serializedVersion: 2
+        x: 1056
+        y: 411
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a461557d310ae5920800000000000000
+      internalID: 2980996010443347530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wolferin Sprites_79
+      rect:
+        serializedVersion: 2
+        x: 1065
+        y: 414
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2cf689a554a40c90800000000000000
+      internalID: -7204452816062579666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wolferin Sprites_80
+      rect:
+        serializedVersion: 2
+        x: 1073
+        y: 414
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aede1d7e61484f730800000000000000
+      internalID: 4031992800316878314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wolferin Sprites_81
+      rect:
+        serializedVersion: 2
+        x: 1079
+        y: 414
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34613216ad8c23730800000000000000
+      internalID: 3977462261179684419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wolferin Sprites_82
+      rect:
+        serializedVersion: 2
+        x: 1091
+        y: 414
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcbd5e5c534ad6680800000000000000
+      internalID: -8760165149305349169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wolferin Sprites_83
+      rect:
+        serializedVersion: 2
+        x: 1105
+        y: 414
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10977f253587094f0800000000000000
+      internalID: -824026432539231999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wolferin Sprites_84
+      rect:
+        serializedVersion: 2
+        x: 1119
+        y: 414
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fee49fe104399bfd0800000000000000
+      internalID: -2325665828953305361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wolferin Sprites_85
+      rect:
+        serializedVersion: 2
+        x: 1128
+        y: 414
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36f18b86beeb62030800000000000000
+      internalID: 3469670481219034979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wolferin Sprites_86
+      rect:
+        serializedVersion: 2
+        x: 1135
+        y: 414
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 774826e18afcf5c40800000000000000
+      internalID: 5503345590641263735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wolferin Sprites_87
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 399
+        width: 5
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 746112a63b7160ac0800000000000000
+      internalID: -3889395168840706489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wolferin Sprites_88
+      rect:
+        serializedVersion: 2
+        x: 966
+        y: 397
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d4e609b90a30b870800000000000000
+      internalID: 8696514693885781207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wolferin Sprites_89
+      rect:
+        serializedVersion: 2
+        x: 974
+        y: 397
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bcd95804bc0665f0800000000000000
+      internalID: -763909119418966856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wolferin Sprites_90
+      rect:
+        serializedVersion: 2
+        x: 983
+        y: 395
+        width: 6
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 603cdb5e791365de0800000000000000
+      internalID: -1344832910259272954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wolferin Sprites_91
+      rect:
+        serializedVersion: 2
+        x: 990
+        y: 397
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 506a679cd110d3dd0800000000000000
+      internalID: -2504844590302452219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wolferin Sprites_92
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 397
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 150f70179e7909130800000000000000
+      internalID: 3571521533384323153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wolferin Sprites_93
+      rect:
+        serializedVersion: 2
+        x: 1009
+        y: 397
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cefc279a540814f10800000000000000
+      internalID: 2252222325345931244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wolferin Sprites_94
+      rect:
+        serializedVersion: 2
+        x: 1022
+        y: 394
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e38ac51ab273cfbc0800000000000000
+      internalID: -3748060129348769730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wolferin Sprites_95
+      rect:
+        serializedVersion: 2
+        x: 1031
+        y: 397
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5e962ec2bcc00ff0800000000000000
+      internalID: -71832525703045539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wolferin Sprites_96
+      rect:
+        serializedVersion: 2
+        x: 1040
+        y: 397
+        width: 5
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23a0a74047407f0f0800000000000000
+      internalID: -1083392289021490638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wolferin Sprites_97
+      rect:
+        serializedVersion: 2
+        x: 1046
+        y: 397
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ce731ab9d88c30f0800000000000000
+      internalID: -1135882537293087034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wolferin Sprites_98
+      rect:
+        serializedVersion: 2
+        x: 1054
+        y: 397
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e5954eae72278c90800000000000000
+      internalID: -7167722354451835419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wolferin Sprites_99
+      rect:
+        serializedVersion: 2
+        x: 1077
+        y: 397
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4c880ab27fad89a0800000000000000
+      internalID: -6229129802301273012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wolferin Sprites_100
+      rect:
+        serializedVersion: 2
+        x: 1086
+        y: 397
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4583f8e94af74e050800000000000000
+      internalID: 5828924162735814740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wolferin Sprites_101
+      rect:
+        serializedVersion: 2
+        x: 1096
+        y: 397
+        width: 5
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a216e937c5baa1ed0800000000000000
+      internalID: -2442451434329972438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wolferin Sprites_102
+      rect:
+        serializedVersion: 2
+        x: 1104
+        y: 397
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e2750c24cba51c40800000000000000
+      internalID: 5482476980433941221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wolferin Sprites_103
+      rect:
+        serializedVersion: 2
+        x: 1362
+        y: 230
+        width: 85
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9832cd3713fdc6f0800000000000000
+      internalID: -662606289007658853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wolferin Sprites_104
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 116
+        width: 136
+        height: 212
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3e842480d8472640800000000000000
+      internalID: 5055089167154056762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wolferin Sprites_105
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 147
+        width: 117
+        height: 199
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 668ebdbc324346a20800000000000000
+      internalID: 3054623775612725350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wolferin Sprites_106
+      rect:
+        serializedVersion: 2
+        x: 1229
+        y: 247
+        width: 127
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5ddbbdceee2cd720800000000000000
+      internalID: 2872222265544269148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wolferin Sprites_107
+      rect:
+        serializedVersion: 2
+        x: 1294
+        y: 283
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0e8dcc7741d8ba10800000000000000
+      internalID: 1925518945667616266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wolferin Sprites_108
+      rect:
+        serializedVersion: 2
+        x: 1305
+        y: 281
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c367a5590a13fe400800000000000000
+      internalID: 355557461355820604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wolferin Sprites_109
+      rect:
+        serializedVersion: 2
+        x: 1313
+        y: 281
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b55e76f8ebf0fea30800000000000000
+      internalID: 4246630284757820763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wolferin Sprites_110
+      rect:
+        serializedVersion: 2
+        x: 1321
+        y: 283
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a57d9c53e8d39770800000000000000
+      internalID: 8616468983112889761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wolferin Sprites_111
+      rect:
+        serializedVersion: 2
+        x: 1329
+        y: 283
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d85888a7ef44d750800000000000000
+      internalID: 6328771232745937107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wolferin Sprites_112
+      rect:
+        serializedVersion: 2
+        x: 1342
+        y: 283
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a4be67b64e618490800000000000000
+      internalID: -7745788634096290651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wolferin Sprites_113
+      rect:
+        serializedVersion: 2
+        x: 1350
+        y: 280
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fea956453455e7630800000000000000
+      internalID: 3926669672780765935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wolferin Sprites_114
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 75
+        width: 128
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3472993f71fb9a550800000000000000
+      internalID: 6172674873880028995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wolferin Sprites_115
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 82
+        width: 193
+        height: 195
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 079d21b0944344660800000000000000
+      internalID: 7369072378608015728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wolferin Sprites_116
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 119
+        width: 123
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8e3d9c2a37d39810800000000000000
+      internalID: 1770995723343314572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wolferin Sprites_117
+      rect:
+        serializedVersion: 2
+        x: 1214
+        y: 249
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d556ea05fdf3061c0800000000000000
+      internalID: -4512536598261373603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wolferin Sprites_118
+      rect:
+        serializedVersion: 2
+        x: 1221
+        y: 249
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a1fafcd8829f1220800000000000000
+      internalID: 2458845038088221096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wolferin Sprites_119
+      rect:
+        serializedVersion: 2
+        x: 1256
+        y: 246
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 342f7b610f5bb33a0800000000000000
+      internalID: -6684549179123436989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wolferin Sprites_120
+      rect:
+        serializedVersion: 2
+        x: 1297
+        y: 246
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a9a41c0913b4f5c0800000000000000
+      internalID: -4182521233762113112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wolferin Sprites_121
+      rect:
+        serializedVersion: 2
+        x: 1351
+        y: 249
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0524d5cff90a69310800000000000000
+      internalID: 1411492142221443664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wolferin Sprites_122
+      rect:
+        serializedVersion: 2
+        x: 1228
+        y: 230
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c3cc1a90a87743b0800000000000000
+      internalID: -5528317386398317625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wolferin Sprites_123
+      rect:
+        serializedVersion: 2
+        x: 1246
+        y: 233
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1dab99ae0744b81b0800000000000000
+      internalID: -5653349655470556463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wolferin Sprites_124
+      rect:
+        serializedVersion: 2
+        x: 1254
+        y: 233
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63e7afc3ce4d6a260800000000000000
+      internalID: 7108603172951326262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wolferin Sprites_125
+      rect:
+        serializedVersion: 2
+        x: 1262
+        y: 233
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c96d392c2314d520800000000000000
+      internalID: 2725824754857372102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wolferin Sprites_126
+      rect:
+        serializedVersion: 2
+        x: 1269
+        y: 233
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66fe12c354c553c50800000000000000
+      internalID: 6644318277686390630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wolferin Sprites_127
+      rect:
+        serializedVersion: 2
+        x: 1282
+        y: 230
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe45c315389e97890800000000000000
+      internalID: -7459674557549619985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wolferin Sprites_128
+      rect:
+        serializedVersion: 2
+        x: 1293
+        y: 233
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b388a3f127f311820800000000000000
+      internalID: 2887158595503949883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wolferin Sprites_129
+      rect:
+        serializedVersion: 2
+        x: 1301
+        y: 233
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54397ce6b1fce1a60800000000000000
+      internalID: 7646776934051320645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wolferin Sprites_130
+      rect:
+        serializedVersion: 2
+        x: 1314
+        y: 233
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbd47d7784ca34a00800000000000000
+      internalID: 739624191067114940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wolferin Sprites_131
+      rect:
+        serializedVersion: 2
+        x: 1322
+        y: 233
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93508e4909561c9e0800000000000000
+      internalID: -1602888320719256263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wolferin Sprites_132
+      rect:
+        serializedVersion: 2
+        x: 1327
+        y: 233
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ade70a06a4028c3b0800000000000000
+      internalID: -5492104241757520166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wolferin Sprites_133
+      rect:
+        serializedVersion: 2
+        x: 1335
+        y: 233
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 081f6aeeee1327a60800000000000000
+      internalID: 7670248017641271680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wolferin Sprites_134
+      rect:
+        serializedVersion: 2
+        x: 1346
+        y: 233
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6330277a57f870b90800000000000000
+      internalID: -7275688937510534346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wolferin Sprites_135
+      rect:
+        serializedVersion: 2
+        x: 802
+        y: 1
+        width: 142
+        height: 231
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea7336bd2dfd811e0800000000000000
+      internalID: -2226783919017871442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wolferin Sprites_136
+      rect:
+        serializedVersion: 2
+        x: 1107
+        y: 14
+        width: 159
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d12d9905e02128030800000000000000
+      internalID: 3495376113484026397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wolferin Sprites_137
+      rect:
+        serializedVersion: 2
+        x: 1125
+        y: 196
+        width: 7
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b906d03f6f72e2ba0800000000000000
+      internalID: -6111903702702006117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wolferin Sprites_138
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 14
+        width: 161
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3eedd30232b96d30800000000000000
+      internalID: 4425264036751207996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 2ec041130b86f7e4ba78d818d789130a
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

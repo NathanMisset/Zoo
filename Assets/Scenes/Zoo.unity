@@ -824,7 +824,6 @@ GameObject:
   - component: {fileID: 887016505}
   - component: {fileID: 887016504}
   - component: {fileID: 887016508}
-  - component: {fileID: 887016509}
   m_Layer: 5
   m_Name: GameCanvas
   m_TagString: Untagged
@@ -933,24 +932,11 @@ MonoBehaviour:
   pig: {fileID: 1157437131242584, guid: b4ef08bb34d7e8d42a322a3fb477bd93, type: 3}
   tiger: {fileID: 1635293449333400, guid: 9d8f88e4e4860ac489141755f7175db2, type: 3}
   zebra: {fileID: 1072593225874480, guid: ca5452b56f32abc46bc83ba2db5f04fd, type: 3}
+  captainAmerica: {fileID: 19542918968143443, guid: af0528a269f689e4f92c06a98ff55791,
+    type: 3}
+  wolverine: {fileID: 3057230731373648491, guid: 5b69338c589027a46a1234857c983f35,
+    type: 3}
   inputField: {fileID: 1717165942}
---- !u!114 &887016509
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 887016503}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 3eb26e422002baf48a41c288a032143a, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  lion: {fileID: 0}
-  hippo: {fileID: 0}
-  pig: {fileID: 0}
-  tiger: {fileID: 0}
-  zebra: {fileID: 0}
 --- !u!1 &1096552935
 GameObject:
   m_ObjectHideFlags: 0

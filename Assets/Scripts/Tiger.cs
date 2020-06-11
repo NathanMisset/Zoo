@@ -1,42 +1,29 @@
-﻿using System.Collections;
+﻿using System;
+using System.Collections;
+using System.Threading;
 using UnityEngine;
 using UnityEngine.UI;
 
 namespace Zoo
 {
-    class Tiger : MonoBehaviour
+    class Tiger : Animal
     {
-        public string name;
-        [SerializeField]
-        private GameObject Balloon;
-        [SerializeField]
-        private Text text;
-
-
-        public void SayHello()
+        public void Start()
         {
-            Balloon.SetActive(true);
+            type = "Carnivore";
+            hasTrick = false;
+        }
+
+        public override void SayHello()
+        {
+            base.SayHello();
             text.text = "rraaarww";
         }
 
-        public void EatMeat()
+        public override void EatMeat()
         {
-            Balloon.SetActive(true);
+            base.EatMeat();
             text.text = "nomnomnom thx wubalubadubdub";
-        }
-
-        public void PerformTrick()
-        {
-            StartCoroutine(DoTrick());
-        }
-
-        IEnumerator DoTrick()
-        {
-            for (int i = 0; i < 360; i++)
-            {
-                transform.localRotation = Quaternion.Euler(i, 0, 0);
-                yield return new WaitForEndOfFrame();
-            }
         }
     }
 }

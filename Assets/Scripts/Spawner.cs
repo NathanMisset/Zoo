@@ -11,13 +11,15 @@ namespace Zoo
     class Spawner : MonoBehaviour
     {
         [SerializeField]
-        private GameObject lion, hippo, pig, tiger, zebra;
+        private GameObject lion, hippo, pig, tiger, zebra, captainAmerica, wolverine;
 
         private Lion henk;
         private Hippo elsa;
         private Pig dora;
         private Tiger wally;
         private Zebra marty;
+        private CaptainAmerica steven;
+        private Wolverine logan;
 
         [SerializeField]
         private GameObject inputField;
@@ -36,6 +38,10 @@ namespace Zoo
             wally.name = "wally";
             marty = Instantiate(zebra, transform).GetComponent<Zebra>();
             marty.name = "marty";
+            steven = Instantiate(captainAmerica, transform).GetComponent<CaptainAmerica>();
+            steven.name = "steven";
+            logan = Instantiate(wolverine, transform).GetComponent<Wolverine>();
+            logan.name = "logan";
         }
 
         private void Update()
@@ -48,6 +54,8 @@ namespace Zoo
             elsa.EatLeaves();
             dora.EatLeaves();
             marty.EatLeaves();
+            steven.EatLeaves();
+            logan.EatLeaves();
         }
 
         public void EatMeatAll()
@@ -55,11 +63,15 @@ namespace Zoo
             henk.EatMeat();
             dora.EatMeat();
             wally.EatMeat();
+            steven.EatMeat();
+            logan.EatMeat();
         }
         public void DoATrickAll()
         {
             dora.PerformTrick();
             wally.PerformTrick();
+            steven.PerformTrick();
+            logan.PerformTrick(); ;
         }
         public void SayHelloAll()
         {
@@ -89,12 +101,22 @@ namespace Zoo
                 case "zebra":
                     marty.SayHello();
                     break;
+                case "captain america":
+                case "steven":
+                    steven.SayHello();
+                    break;
+                case "wolverin":
+                case "logan":
+                    logan.SayHello();
+                    break;
                 case "":
                     henk.SayHello();
                     elsa.SayHello();
                     dora.SayHello();
                     wally.SayHello();
                     marty.SayHello();
+                    logan.SayHello();
+                    steven.SayHello();
                     break;
                 default:
                     break;
